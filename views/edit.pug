@@ -1,0 +1,12 @@
+html
+    head
+        title Edit
+    body
+        h1 Edit User
+        form(action='/edit' method='post')
+            input(type="text" name="first" id="first" placeholder="first name" value= userData.first)
+            input(type="text" name="last" id="last" placeholder="last name" value= userData.last) 
+            input(type='email' name='email' id='email' placeholder="email" value= userData.email) 
+            input(type="number" name="age" id="age" placeholder="age" value= userData.age) 
+            input(type='text' name='id' id='id' value= userData.id style="display:none;")
+            input(type="submit" name="submit" id="submit" value="Confirm Changes")
