@@ -1,7 +1,7 @@
 # To Start
 1. start by opening two terminals
 2. in one terminal type 
-   * `sudo mongod --dbpath ~/pathtodata`
+   * `sudo mongod --dbpath ~/path/to/data`
 3. in the other terminal type 
    * `mongo`
 
