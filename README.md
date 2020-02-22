@@ -1,6 +1,7 @@
 
-# To Start1. now open the project, make sure you install all the dependencies that are listed in the package-json
-1. in the project terminal type 
+# To Start.
+1. make sure you have installed all the dependancies that are listed in the package.json file
+2.in the project terminal type 
    * `npm run local`
 
 the project should now be up and running on port 80.
