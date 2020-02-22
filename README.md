@@ -1,6 +1,7 @@
 
 # To Start.
 1. make sure you have installed all the dependancies that are listed in the package.json file
+
 2.in the project terminal type 
    * `npm run local`
 
